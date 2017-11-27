@@ -1,0 +1,61 @@
+div.yeezy {
+	margin: 10px;
+}
+
+table.list {
+	margin: 0;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+
+table.list tr td img {
+	height: 150px;
+	width: 100px;
+	border-radius: 10px;
+}
+table.list tr td, th {
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+}
+
+table.list tr th {
+	background-color: #37474F;
+	color: white;
+
+}
+
+.edit a, .hapus a {
+	text-decoration: none;
+	display: inline;
+	margin-left: -10px;
+}
+
+.hapus {
+	background-color: #B71C1C;
+	opacity: 0.8;
+}
+
+.edit {
+	background-color: #1A237E;
+	opacity: 0.8;
+}
+
+
+.hapus:hover, .edit:hover {
+	opacity: 2;
+}
+
+
+
+
+td.tuntas {
+	color: DarkGreen;
+	font-weight: bold;
+}
+
+td.gagal {
+	color: Red;
+	font-weight: bold;
+}

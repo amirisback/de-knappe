@@ -1,0 +1,41 @@
+table.form {
+    margin-left: 5%;
+}
+
+table.form tr td span {
+    float: right;
+}
+
+table.form tr td input[type=text], input[type=date], input[type=password] {
+    padding: 7px;
+    width: 100%;
+}
+
+table.form tr td input[type=submit] {
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    border: 1px solid brown;   
+}
+
+table.form tr td input[type=submit]:hover {
+    box-shadow: 2px 2px lightgray;  
+}
+
+table.form tr td select {
+    padding: 7px;
+    width: 320px;
+}
+
+table.form tr td input[type=text], input[type=date], input[type=password]  {
+    width: 300px;
+}
+
+table.form tr td img {
+    width: 145px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 0px lightgrey;
+}
+

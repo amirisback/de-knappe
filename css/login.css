@@ -1,0 +1,120 @@
+body{
+	margin: 0;
+}
+
+header {
+	padding: 0% 5%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	font-family: arial;
+	border-bottom: 2px solid lightgrey;
+}
+
+li {
+	float: right;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	background-color: #A1887F;
+	color: white;
+}
+
+.active {
+	background-color: #795548;
+	color: white;
+}
+
+div.logos {
+	margin: 20px 0px 20px 0px;
+}
+
+div.logos img {
+	width: 350px;
+}
+
+div.login {
+	color: #3E2723;
+	font-family: Arial;
+	font-size: 20px;
+
+}
+
+div.login table {
+	border: 2px solid lightgrey;
+	padding: 20px;
+	margin-top: 10px;
+	max-width: 450px;
+	width: 40%;
+	box-shadow: 2px 2px 2px lightgrey;
+
+}
+
+div.login table tr td span {
+	font-family: Courier New, Courier, monospace;
+	font-size: 25px;
+	text-shadow: 1px 1px 1px lightgrey;
+	padding: 10px 0px;
+	font-weight: bold;
+}
+
+div.login table tr td input[type=text], input[type=password] {
+	width: 100%;
+	border: 1px solid lightgrey;
+	height: 15px;
+	font-size: 20px;
+	font-family: Arial;
+	margin: 5px 0px;
+	padding: 10px 0px;
+	text-align: center;
+}
+
+div.login table tr td input[type=submit] {
+	background: #D84315;
+	color: white;
+	font-family: arial;
+	border: 1px solid #D84315;		 	
+	font-size: 15px;
+	margin: 5px 0px 5px 10px;
+	padding: 5px 10px;
+	float: right;
+
+}
+
+div.login table tr td input[type=submit]:hover {
+	box-shadow: 2px 2px 2px grey;
+
+}
+
+div.login table tr td input[type=text]:hover, input[type=password]:hover {
+	box-shadow: 2px 2px 2px lightgrey;
+}
+
+div.cek {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+footer {
+	background: linear-gradient(to right, #4E342E, #795548);
+	color: white;
+	font-family: arial;
+	padding: 10px;
+	width: 100%;
+	display: block;
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+}

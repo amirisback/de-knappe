@@ -1,0 +1,51 @@
+div.page-hasil {
+    padding: 20px;
+}
+
+div.page-hasil div.border-hasil {
+    padding: 20px;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+div.border-hasil b {
+    font-size: 30px;
+    color: #1A237E;
+}
+
+div.nilai-baru table {
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding: 20px 30px;
+}
+
+div.nilai-baru table tr td {
+    padding: 5px 10px;
+}
+
+div.nilai-baru table tr td span {
+    font-weight: bold;
+}
+
+div.nilai-baru table tr td span.hijau {
+    color: green;
+}
+
+div.nilai-baru table tr td span.merah {
+    color: red;
+}
+
+div.button {
+    padding: 20px;
+}
+
+div.button a {
+    background: blue;
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+div.button a:hover {
+    box-shadow: 2px 2px 2px 0px grey;
+}

@@ -1,0 +1,101 @@
+div.menu {
+	padding: 3%;
+}
+
+div.soal {
+	padding: 0.5% 6%;
+}
+
+.submit {
+	margin: 0% 10%;
+	padding: 10px;
+	background-color: green;
+	color: white;
+	border: 1px solid green;
+}
+
+.submit:hover {
+	box-shadow: 2px 2px 2px 0px grey;
+}
+					
+div.hasil table{
+	text-align: center;
+}
+div.hasil table tr td {
+	padding: 1px 25px;
+}
+
+div.hasil table tr th {
+	color: grey;
+	border: 1px solid grey;
+}
+div.hasil table tr {
+	font-size: 30px;
+}
+
+div.hasil table tr.desc {
+	font-size: 16px;
+}
+
+div.hasil table tr td {
+	border: 1px solid grey;
+}
+
+tr.desc td span span {
+	font-weight: bold;
+	color: blue;
+}
+
+tr.desc td.desc1 {
+	background: grey;
+	color: white;
+}
+
+div.scoreboard {
+	margin-top: 15px;
+}
+
+div.informasi {
+	background-color: #B2DFDB;
+	color: #004D40;
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: 1px solid #004D40;
+}
+
+div.informasi span{
+	font-size: 20px;
+}
+
+div.informasi ul li {
+		padding: 3px 0px;
+	}
+
+div.pengumuman {
+	margin-top: 15px;
+	padding: 10px;
+
+}
+
+div.submits a, input[type=submit] {
+	padding: 10px;
+	color: white;
+	margin: 0px 10px;
+	font-size: 16px;
+	opacity: 0.8;
+}
+
+div.submits a {
+	background-color: red;
+	border: 1px solid red;
+}
+
+div.submits a.submite {
+	background-color: green;
+	border: 1px solid green;
+}
+
+div.submits a:hover, a.submite:hover {
+	box-shadow: 2px 2px 2px 0px grey;
+	opacity: 1;
+}

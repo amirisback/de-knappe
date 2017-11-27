@@ -1,0 +1,87 @@
+div.set-profil {
+    padding: 20px 10px;
+}
+
+div.profil_siswa table{
+    margin-left: 20%;			
+    padding-left: 17px;
+    border-left: 2px solid black;
+}
+
+div.profil_siswa table tr td {
+    padding: 10px;
+}
+
+div.underfoto{
+    position: absolute;
+    width: 11%;
+    margin-top: 16.5%;
+    margin-left: 2%;
+    border-top: 1px solid black;
+    padding-top: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+
+div.profil_siswa {
+    background: #FFCC80;
+    margin: 0px 10px 10px 10px;
+    padding: 20px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+div.profil_siswa img {
+    width: 145px;
+    height: 200px;
+    position: absolute;
+    margin-left: 2%;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 0px lightgrey;
+}
+
+div.edit {
+    background: #FF9800;
+    padding: 10px 0px;
+    text-align: right;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+div.edit a {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: #E65100;
+}
+
+div.edit a:hover {
+    background: #795548;
+}
+
+div.penjelasan {
+    background: #B2DFDB;
+    margin: 15px 10px 10px 10px;
+    border-radius: 10px;
+    padding: 8px 0px 8px 20px;
+    color: #004D40;
+}
+
+div.penjelasan table {
+    display: inline-block;
+}
+
+div.penjelasan img {
+    float: right;
+    width: 90px;
+    margin-right: 20px;
+}
+
+div.penjelasan table tr th {
+    float: right;
+}
+
+div.penjelasan table tr td, th {
+    padding: 5px 10px;
+    display: inlne-block;
+}

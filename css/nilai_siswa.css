@@ -1,0 +1,40 @@
+div.isi_nilai {
+    padding: 20px;
+}
+
+table.nilais {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.nilais tr td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table.nilais tr th {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #263238;
+    color: white;
+}
+
+td.tuntas {
+    background-color: #388E3C;
+    color: white;
+}
+
+table.nilais tr td.left {
+    text-align: left;
+}
+
+table.nilais tr td.nilai {
+    background: #FFCC80;
+}
+
+td.gagal {
+    background-color: #D50000;
+    color: white;
+}

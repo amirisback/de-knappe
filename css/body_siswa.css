@@ -1,0 +1,173 @@
+body {
+	margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EFEBE9;
+}
+
+header {
+    position: fixed;
+    z-index: 2;
+}
+
+a {	
+	color: white;
+	text-decoration: none; 
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4E342E;
+    position: fixed;
+    width: 100%;
+}
+
+
+ul.navbar li {
+    float: right;
+}
+
+ul.navbar li.keluar {
+    border-left: 2px solid #EFEBE9; 
+}
+
+
+ul.navbar li span.welcome {
+    display: block;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.navbar li a {
+    display: block;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.navbar li a:hover {
+    background-color: #A1887F;
+}
+
+div.content {
+	padding: 15px;
+	height: 100%;
+}
+
+div.samping {
+	padding-top: 4%;
+	width: 20%;
+	display: inline-block;
+	/*margin-right: 78%;*/
+	position: fixed;
+	height: 96%;
+	border-right: 2px solid #D7CCC8;
+	padding-right: 15px;
+}
+
+div.samping div.dkp {
+	border-bottom: 1px solid #90A4AE;
+}
+
+div.samping div.dkp img {
+	width: 97%;
+}
+
+div.samping div.desc {
+	text-align: justify;
+	padding: 10px 0px;
+}
+
+div.desc div {
+	padding: 15px 15px;
+	background-color: #795548;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+}
+
+div.samping div.twh {
+	padding: 10px 0px;
+	border-top: 1px solid #90A4AE;
+}
+div.samping div.twh img {
+	width: 70%;
+}
+
+div.samping div.twh div {
+	padding: 5px;
+	background-color: #795548;
+	border-radius: 5px;
+	color: white;
+}
+
+div.isi {
+	margin-top: 50px;
+	margin-left: 22.5%;
+	box-shadow: 0px 1px 1px 1px #BCAAA4;
+}
+
+div.judul {
+	background: #455A64;
+	padding: 10px;
+	font-size: 25px;
+	color: white;
+	border-bottom: 1px solid #D7CCC8;
+}
+
+.footer {
+	color: #757575;
+	font-size: 11px;
+	border-top: 1px solid #BDBDBD;
+	padding: 5px 5px 12px 0px ;
+	bottom: 0;
+	position: relative;
+	display: block;
+	width: 75.5%;
+	margin-left: 23%;
+}
+
+div.sidebar {
+	padding: 10px 0px;
+}
+
+div.sidebar div ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+}
+
+div.sidebar div ul li a {
+	display: block;
+	background-color: #795548;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 2% 0%;
+}
+
+
+div.sidebar div ul li a:hover {
+	background-color: #A1887F;
+}
+
+div.info {
+	background: #B2DFDB;
+	color: #004D40;
+	padding: 20px 30px 5px;
+	border-radius: 15px;
+	margin-bottom: 10px;
+	border: 0.5px solid #004D40;
+}
+
+div.info ul {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div.info ul li {
+	padding: 5px 0px;
+}

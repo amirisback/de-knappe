@@ -1,0 +1,53 @@
+div.output-soal {
+    padding: 20px;
+}
+
+div.soal {
+    padding: 5px 10px 10px 10px;
+}
+
+div.countdown {
+    padding: 10px 0px;
+}
+
+div.countdown table{
+    width: 100%;
+}
+
+div.countdown table tr td {
+    background: #E65100;
+}
+
+div.countdown table tr td div {
+    font-size: 30px;
+    color: white;
+}
+
+div.countdown table tr th span {
+    float: left;
+}
+
+div.ini-soal {
+    border-top: 1px solid grey;
+    padding: 10px 0px;
+    
+}
+
+div.submit {
+    margin-top: 10px;
+    background-color: #A1887F;
+}
+
+div.submit input[type=submit] {
+    padding: 10px;
+    background-color: #004D40;
+    color: white;
+    border: 1px solid #004D40;
+}
+div.submit input[type=submit]:hover {
+    background: blue;
+}
+
+div.out{
+    padding: 10px;
+}

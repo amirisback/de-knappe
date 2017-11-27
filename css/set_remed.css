@@ -1,0 +1,32 @@
+table.form {
+    margin-left: 5%;
+}
+
+table.form tr td span {
+    float: right;
+}
+
+table.form tr td {
+    font-size: 17px;
+}
+
+table.form tr td input[type=text], input[type=date], select {
+    padding: 5px;
+}
+
+
+td.jams input[type=text]{
+    width: 30px;
+    padding: 5px;
+}
+
+table.form tr td input[type=submit] {
+    padding: 10px;
+    background: green;
+    color: white;
+    border: 1px solid green;
+}
+
+table.form tr td input[type=submit]:hover {
+    box-shadow: 2px 2px 2px 0px grey;
+}

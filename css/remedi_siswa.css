@@ -1,0 +1,41 @@
+div.isiremedi {
+	padding: 20px;
+}
+
+div.remed {
+	padding: 20px 20px 40px 20px;
+	border-radius: 15px;
+	border: 1px solid grey;
+	
+}
+
+div.remed table tr td {
+	padding: 7px;
+}
+
+div.remed table tr td input[type=text], select {
+	padding: 10px;
+}
+
+div.remed table tr td input[type=text] {
+	width: 175px;
+}
+
+div.remed table tr td select {
+	width: 200px;
+}
+
+div.remed table tr td input[type=submit] {
+	padding: 10px;
+	background-color: #1B5E20;
+	color: white;
+	border: 1px solid #1B5E20;
+}
+
+div.remed table tr td input[type=submit]:hover {
+	box-shadow: 5px 5px 5px 0px lightgrey;
+}
+
+div.remed table tr td input[type=text]:hover, select:hover {
+	box-shadow: 2px 2px 2px 0px lightgrey;
+}
