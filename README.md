@@ -1,4 +1,4 @@
-## Learning About HTML CSS
+## de-knappe
 - v1.0.0 Development
 
 ## About This Project
@@ -16,8 +16,8 @@ Very open to anyone, I'll write your name under this, please contribute by sendi
 
 Name Of Contribute
 - Muhammad Faisal Amir
-- Waiting List
-- Waiting List
+- Saiful Apriyanto
+- Krisna Setiawan
 
 Waiting for your contribute
 
