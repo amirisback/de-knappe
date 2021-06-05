@@ -4,22 +4,15 @@ De-Knappe adalah website remedial online, untuk mempermudah remedial dan ujian s
 
 ## Screenshoot apps
 
-### Page Guru
-![ScreenShoot Apps](docs/image/Screenshot (7).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (11).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (12).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (13).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (14).jpg?raw=true)
+### Page Guru [More]()
+![ScreenShoot Apps](docs/image/guru/ss_1.png?raw=true)
+![ScreenShoot Apps](docs/image/guru/ss_3.png?raw=true)
+![ScreenShoot Apps](docs/image/guru/ss_4.png?raw=true)
 
-### Page Siswa
-![ScreenShoot Apps](docs/image/Screenshot (16).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (17).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (18).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (25).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (26).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (27).jpg?raw=true)
-![ScreenShoot Apps](docs/image/Screenshot (28).jpg?raw=true)
-
+### Page Siswa [More]()
+![ScreenShoot Apps](docs/image/siswa/ss_1.png?raw=true)
+![ScreenShoot Apps](docs/image/siswa/ss_2.png?raw=true)
+![ScreenShoot Apps](docs/image/siswa/ss_3.png?raw=true)
 
 ## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
