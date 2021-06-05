@@ -1,0 +1,32 @@
+KUNCI MASUK DEKNAPPE
+
+
+ID SISWA :
+1.  USERNAME    : 11762
+    PASSWORD    : 11762
+    NAMA        : AMIR
+
+ID GURU :
+1.  USERNAME    : 1111
+    PASSWORD    : 1111
+    MAPEL       : MAT
+
+2.  USERNAME    : 2222
+    PASSWORD    : 2222
+    MAPEL       : BIN
+
+3.  USERNAME    : 3333
+    PASSWORD    : 3333
+    MAPEL       : BIG
+
+4.  USERNAME    : 4444
+    PASSWORD    : 4444
+    MAPEL       : FIS
+
+5.  USERNAME    : 5555
+    PASSWORD    : 5555
+    MAPEL       : KIM
+
+6.  USERNAME    : 6666
+    PASSWORD    : 6666
+    MAPEL       : BIO
